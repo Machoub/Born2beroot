@@ -104,5 +104,5 @@ Custom `monitoring.sh` script that:
 
 ## 👨‍💻 Author
 
-**Mehdi Adel Achouba**  
-`machouba@student.42.fr`
+**Mehdi Adel Achouba**
+42 Paris – Login: machouba
